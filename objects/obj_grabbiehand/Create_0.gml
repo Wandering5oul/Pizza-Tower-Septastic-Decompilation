@@ -1,0 +1,13 @@
+image_speed = 0.35;
+hsp = 0;
+vsp = 0;
+hsp_carry = 0;
+scr_collision_init();
+platformid = -4;
+grounded = 0;
+grav = 0.5;
+state = UnknownEnum.Value_0;
+stunned = 0;
+turnspeed = 0.5;
+shootdir = 0;
+fake = 0;

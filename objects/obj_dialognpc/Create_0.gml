@@ -1,0 +1,9 @@
+dialog = -4;
+dialogsnd = [229, 194, 18, 35, 203, 172];
+portrait = spr_dialogue_peppino;
+dialogsprite = -4;
+fontselect = 1;
+image_speed = 0.35;
+dialog_func = npc_do_dialog;
+bucket = false;
+talking = false;

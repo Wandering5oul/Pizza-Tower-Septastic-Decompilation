@@ -1,0 +1,11 @@
+event_inherited();
+image_speed = 0.35;
+yoffset = 0;
+hsp = 0;
+vsp = 0;
+grav = 0.23;
+movespeed = 3;
+playerid = 245;
+tauntID = -4;
+state = UnknownEnum.Value_0;
+do_end = false;

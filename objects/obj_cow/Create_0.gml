@@ -1,0 +1,12 @@
+move = 0;
+hsp = 0;
+vsp = 0;
+grav = 0.5;
+grounded = 0;
+movespeed = 0;
+state = UnknownEnum.Value_126;
+blockinst = -4;
+depth = -5;
+platformid = -4;
+hsp_carry = 0;
+scr_collision_init();

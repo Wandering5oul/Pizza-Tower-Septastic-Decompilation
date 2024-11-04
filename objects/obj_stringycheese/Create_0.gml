@@ -1,0 +1,9 @@
+playerid = -4;
+state = UnknownEnum.Value_0;
+handx = x;
+handy = y;
+drawhandx = x;
+drawhandy = y;
+maxhandlen = 120;
+shootbuffer = 0;
+depth = -6;

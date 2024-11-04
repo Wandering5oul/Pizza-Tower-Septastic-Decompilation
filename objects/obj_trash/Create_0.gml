@@ -1,0 +1,10 @@
+hsp = 0;
+vsp = 0;
+grav = 0.5;
+hsp_carry = 0;
+scr_collision_init();
+platformid = -4;
+grounded = 0;
+state = UnknownEnum.Value_0;
+substate = UnknownEnum.Value_0;
+trashbuffer = 0;
